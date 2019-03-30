@@ -1,0 +1,440 @@
+
+---------------------------------------------------
+trc file: "InformationDesignTool_ncs.trc", trc level: 1, release: "720"
+---------------------------------------------------
+M  
+M [Thr 25408] Tue Jan 08 09:18:23 2019
+M  [Thr 25408] NCS trace timer thread is successfully triggered
+M  [Thr 25408] Trace dispatcher thread is successfully triggered
+M  
+M [Thr 25408] Tue Jan 08 09:18:24 2019
+M  [Thr 25408] NCS data timer thread is successfully triggered
+M  [Thr 25408] Data dispatcher thread is successfully triggered
+M  [Thr 25408] NCS library version 2.3.9 (unicode) loaded
+M  [Thr 25408] NCS_ProcInit API invoked
+M  
+M [Thr 12080] Tue Jan 08 09:18:29 2019
+M  [Thr 12080] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 12080] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  [Thr 12080] *** ERROR => NI raw handle failed to be initilized at IDEL to CONNECTED, connection to agent destination failed to be established  in agent 1 [ncsmtdatasen 137]
+M  
+M [Thr 18636] Tue Jan 08 09:19:24 2019
+M  [Thr 18636] *** ERROR => NI raw handle failed to be initilized at IDEL to CONNECTED, connection to agent destination failed to be established  in agent 1 [ncsmtdatasen 137]
+M  
+M [Thr 12080] Tue Jan 08 13:28:47 2019
+M  [Thr 12080] NI raw handle gets restored successfully from the previous broken connection in agent 1
+M  [Thr 12080] Version Data Sent Once
+M  
+M [Thr 18636] Tue Jan 08 13:29:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:30:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:31:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:32:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:33:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:34:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:35:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:36:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:37:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:38:37 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:39:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:40:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:41:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:42:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:43:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:44:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:45:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:46:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:47:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:48:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:49:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:50:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:51:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:52:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:53:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:54:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:55:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:56:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:57:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:58:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 13:59:38 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:00:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:01:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:02:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:03:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:04:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:05:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:06:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:07:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:08:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:09:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:10:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:11:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:12:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:13:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:14:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:15:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:16:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:17:39 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:18:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:19:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:20:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:21:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:22:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:23:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:24:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:25:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:26:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:27:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:28:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:29:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:30:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:31:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:32:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:33:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:34:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:35:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:36:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:37:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:38:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:39:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:40:40 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:41:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:42:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:43:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:44:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:45:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:46:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:47:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:48:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:49:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:50:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:51:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:52:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:53:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:54:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:55:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:56:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:57:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:58:41 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 14:59:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:00:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:01:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:02:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:03:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 2;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:04:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 3;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:05:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 4;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:06:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 5;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:07:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 6;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:08:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 7;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 18636] Tue Jan 08 15:09:42 2019
+M  [Thr 18636] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 18636] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 0;127.0.0.1:59818) [nibuf.cpp    4645]
+M  
+M [Thr 26428] Tue Jan 08 15:10:12 2019
+M  [Thr 26428] NCS_ProcExit API started
+M  
+M [Thr 26428] Tue Jan 08 15:10:13 2019
+M  [Thr 26428] Timer threads are successfully finished
+M  [Thr 26428] Data sending threads are successfully finished
+M  [Thr 26428] ***LOG Q0I=> NiBufIConnect: connection pending after 500ms: connect (10035: WSAEWOULDBLOCK: Resource temporarily unavailable) [nibuf.cpp 4634]
+M  [Thr 26428] *** ERROR => NiBufIConnect: non-buffered connect pending after 500ms (hdl 1;127.0.0.1:59818) [nibuf.cpp    4645]
+M  [Thr 26428] NCS_ProcExit API invoked
